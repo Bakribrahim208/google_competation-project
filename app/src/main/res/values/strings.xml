@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">google_project</string>
+    <string-array name="items">
+        <item>البروفايل</item>
+        <item>االفاضييح</item>
+        <item>الاصدقاء</item>
+        <item>الدواير</item>
+        <item>الاحصائيات</item>
+        <item>تسجيل الخروج</item>
+    </string-array>
+    <string name="open">open</string>
+    <string name="closed"></string>
+
+
+    <string name="first_name">االاسم الاول</string>
+    <string name="faimly_name">اسم العائله </string>
+
+    <string name="user_phone">رقم الهاتف</string>
+    <string name="user_country">البلد</string>
+    <string name="user_goverment">المحافظه</string>
+    <string name="user_centeral">المركز</string>
+    <string name="sing_up">انشاء الحساب</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="phone_number">ادخل رقم الهاتف</string>
+    <string name="pass">ادخل كلمه السر</string>
+    <string name="login">تسجيل الدخول</string>
+
+    <string name="register">تتسجيل حساب جديد</string>
+    <string name="forgetpass">هل نسيت الحساب؟</string>
+    <string name="password">كلمه السر</string>
+    <string name="confirm_pass">تاكيد كلمه السر</string>
+    <string name="post">شارك تجربتك</string>
+    <string name="loadimage">تحميل صوره</string>
+    <string name="btnpost">مشاركه المنشور</string>
+</resources>
